@@ -1,0 +1,10 @@
+name: TDS W2
+
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 22f3000123@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
